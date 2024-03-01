@@ -1,4 +1,4 @@
 plotly_express
 dash==0.39.0  # The core dash backend
-dash-html-components==0.14.0  # HTML components
+dash-html-components==2.0.0  # HTML components
 dash-core-components==0.44.0  # Supercharged components
